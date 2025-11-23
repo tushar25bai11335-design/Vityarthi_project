@@ -3,8 +3,8 @@
 **Grocery Budget Helper**
 A small tool. But kind of useful. And honestly more realistic than it looks.
 
-**Overview of the Project
-**
+**Overview of the Project**
+
 Everyone tries to manage groceries. And the budget keeps running away.
 So this program… well… tries to help.
 It allows a person to record what they buy, how much they spend, and what type of item it is.
@@ -19,7 +19,7 @@ Not a boring calculator — more like someone tracking your spending while you s
 
 * Mark each item as Essential or Non-essential
 
-*Edit items when mistakes happen (they always happen)
+* Edit items when mistakes happen (they always happen)
 
 * Delete an item you regret buying
 
