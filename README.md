@@ -18,27 +18,27 @@ Features
 
 This little program has a good number of tricks:
 
-Add grocery items one by one
+>Add grocery items one by one
 
-Mark each item as Essential or Non-essential
+>Mark each item as Essential or Non-essential
 
-Edit items when mistakes happen (they always happen)
+>Edit items when mistakes happen (they always happen)
 
-Delete an item you regret buying
+>Delete an item you regret buying
 
-See totals for both categories
+>See totals for both categories
 
-Apply discount directly to the bill (just like shopkeeper offer)
+>Apply discount directly to the bill (just like shopkeeper offer)
 
-Final summary + soft suggestions to avoid overspending next month
+>Final summary + soft suggestions to avoid overspending next month
 
-It’s not too fancy. But it’s surprisingly powerful for daily use.
+>It’s not too fancy. But it’s surprisingly powerful for daily use.
 
 Technologies / Tools Used
 
-Python (plain, simple, no libraries imported)
+>Python (plain, simple, no libraries imported)
 
-Runs in terminal / command prompt
+>Runs in terminal / command prompt
 Basically… if Python runs, the program runs.
 
 Steps to Install & Run the Project
@@ -81,7 +81,7 @@ Press exit and check final bill
 Best test is entering things in the wrong way too (typos, numbers, etc.)
 The program reacts quite okay.
 
-Screenshots (optional but recommended)
+Screenshots 
 
 Screenshots tell the whole story better.
 Suggested screenshots:
