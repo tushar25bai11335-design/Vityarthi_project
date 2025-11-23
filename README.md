@@ -1,20 +1,20 @@
 # Vityarthi_project
 My first project
 
-Project Title
+**Project Title**
 
 Grocery Budget Helper
 A small tool. But kind of useful. And honestly more realistic than it looks.
 
-Overview of the Project
-
+**Overview of the Project
+**
 Everyone tries to manage groceries. And the budget keeps running away.
 So this program… well… tries to help.
 It allows a person to record what they buy, how much they spend, and what type of item it is.
 And when spending goes too far, the program speaks up (politely).
 Not a boring calculator — more like someone tracking your spending while you shop.
 
-Features
+**Features**
 
 This little program has a good number of tricks:
 
@@ -41,42 +41,42 @@ Technologies / Tools Used
 >Runs in terminal / command prompt
 Basically… if Python runs, the program runs.
 
-Steps to Install & Run the Project
+**Steps to Install & Run the Project**
 
 You don’t really “install” it.
 Just these steps:
 
-Install Python (if not already)
+1-Install Python (if not already)
 
-Download the project folder
+2-Download the project folder
 
-Go inside /src
+3-Go inside /src
 
-Open terminal there
+4-Open terminal there
 
-Run the command
+5-Run the command
 
 python grocery.py
 
 
-If the screen shows the menu → you’re good to go.
+6-If the screen shows the menu → you’re good to go.
 
-Instructions for Testing
+7-Instructions for Testing
 
 There isn’t any complicated testing.
 Just play around with the options, like:
 
-Add a few items
+~Add a few items
 
-Try editing an item
+~Try editing an item
 
-Delete one
+~Delete one
 
-Show category summary
+~Show category summary
 
-Apply discount
+~Apply discount
 
-Press exit and check final bill
+~Press exit and check final bill
 
 Best test is entering things in the wrong way too (typos, numbers, etc.)
 The program reacts quite okay.
