@@ -7,7 +7,7 @@ A small tool. But kind of useful. And honestly more realistic than it looks.
 ## **Overview of the Project**
 
 Everyone tries to manage groceries. And the budget keeps running away.
-So this program… well… tries to help.
+So this program well tries to help.
 It allows a person to record what they buy, how much they spend, and what type of item it is.
 And when spending goes too far, the program speaks up (politely).
 Not a boring calculator — more like someone tracking your spending while you shop.
@@ -61,8 +61,8 @@ python grocery.py
 
 7-Instructions for Testing
 
-There isn’t any complicated testing.
-Just play around with the options, like:
+**There isn’t any complicated testing.
+Just play around with the options, like:**
 
 ~ Add a few items
 
@@ -79,7 +79,7 @@ Just play around with the options, like:
 Best test is entering things in the wrong way too (typos, numbers, etc.)
 The program reacts quite okay.
 
-**Screenshots**
+## **Screenshots**
 
 * **Main menu**
 * <img width="611" height="347" alt="image" src="https://github.com/user-attachments/assets/75342366-67d0-43dd-b339-44c286890bc4" />
