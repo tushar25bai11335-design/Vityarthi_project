@@ -1,10 +1,10 @@
-# Vityarthi_project
 
-## **Grocery Budget Helper**
+
+# **Grocery Budget Helper**
 
 A small tool. But kind of useful. And honestly more realistic than it looks.
 
-**Overview of the Project**
+## **Overview of the Project**
 
 Everyone tries to manage groceries. And the budget keeps running away.
 So this program… well… tries to help.
@@ -12,7 +12,7 @@ It allows a person to record what they buy, how much they spend, and what type o
 And when spending goes too far, the program speaks up (politely).
 Not a boring calculator — more like someone tracking your spending while you shop.
 
-**Features**
+## **Features**
 
 * This little program has a good number of tricks:
 
@@ -32,7 +32,7 @@ Not a boring calculator — more like someone tracking your spending while you s
 
 * It’s not too fancy. But it’s surprisingly powerful for daily use.
 
-**Technologies / Tools Used**
+## **Technologies / Tools Used**
 
 1-Python (plain, simple, no libraries import)
 
