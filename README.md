@@ -79,22 +79,22 @@ Just play around with the options, like:
 Best test is entering things in the wrong way too (typos, numbers, etc.)
 The program reacts quite okay.
 
-**Screenshots **
+**Screenshots**
 
 * **Main menu**
-<img width="611" height="347" alt="image" src="https://github.com/user-attachments/assets/75342366-67d0-43dd-b339-44c286890bc4" />
+* <img width="611" height="347" alt="image" src="https://github.com/user-attachments/assets/75342366-67d0-43dd-b339-44c286890bc4" />
 
 * **Adding an item**
-  <img width="714" height="263" alt="image" src="https://github.com/user-attachments/assets/8c574a4f-535c-499c-9c3d-60adfe9e4e1b" />
+* <img width="714" height="263" alt="image" src="https://github.com/user-attachments/assets/8c574a4f-535c-499c-9c3d-60adfe9e4e1b" />
 
 * **Editing an item**
-<img width="894" height="489" alt="image" src="https://github.com/user-attachments/assets/77c6d99c-cbe0-4a8d-bfab-403dcbd0ea6e" />
+* <img width="894" height="489" alt="image" src="https://github.com/user-attachments/assets/77c6d99c-cbe0-4a8d-bfab-403dcbd0ea6e" />
 
 
 * **Category-wise summary**
-<img width="482" height="114" alt="image" src="https://github.com/user-attachments/assets/1e620e60-9e9b-4b62-a23e-39fc28448c4e" />
+* <img width="482" height="114" alt="image" src="https://github.com/user-attachments/assets/1e620e60-9e9b-4b62-a23e-39fc28448c4e" />
 
 * **Final summary**
-<img width="761" height="557" alt="image" src="https://github.com/user-attachments/assets/0a707360-df11-4925-b25a-00acc66d5660" />
+* <img width="761" height="557" alt="image" src="https://github.com/user-attachments/assets/0a707360-df11-4925-b25a-00acc66d5660" />
 
 
