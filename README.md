@@ -61,7 +61,7 @@ python grocery.py
 
 7-Instructions for Testing
 
-## ** Instructions for testing**
+## **Instructions for testing**
 **There isn’t any complicated testing.
 Just play around with the options, like:**
 
