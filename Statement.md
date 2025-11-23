@@ -3,7 +3,7 @@ Grocery shopping looks simple. But the budget somehow slips away every month.
 People buy things. Forget what they already purchased. Spend more. And then regret later.
 There is no easy way to quickly keep track of items and control the total before it’s too late.
 So this project tries to solve that small but real headache.
-It gives a basic digital helper that watches your grocery spending… silently but smartly.
+It gives a basic digital helper that watches your grocery spending silently but smartly.
 # **Scope Of The Project**
 This is not a full supermarket billing system. Not an app with ads and notifications.
 Just a small program that sits in the terminal.
