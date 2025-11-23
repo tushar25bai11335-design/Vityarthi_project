@@ -39,7 +39,7 @@ Not a boring calculator — more like someone tracking your spending while you s
 2-Runs in terminal / command prompt
 Basically… if Python runs, the program runs.
 
-**Steps to Install & Run the Project**
+## **Steps to Install & Run the Project**
 
 You don’t really “install” it.
 Just these steps:
@@ -61,6 +61,7 @@ python grocery.py
 
 7-Instructions for Testing
 
+## ** Instructions for testing**
 **There isn’t any complicated testing.
 Just play around with the options, like:**
 
