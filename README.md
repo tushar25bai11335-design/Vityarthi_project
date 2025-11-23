@@ -111,6 +111,6 @@ The program reacts quite okay.
 <img width="770" height="592" alt="image" src="https://github.com/user-attachments/assets/d1faaa72-d90e-48a2-bceb-24c05971934c" />
 
 # Project By
-* **Submitted By** **-Tushar Chauhan**
+* **Name** **-Tushar Chauhan**
 * **Registration no.** **-25BAI11335**
 
