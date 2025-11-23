@@ -1,9 +1,6 @@
 # Vityarthi_project
-My first project
 
-**Project Title**
-
-Grocery Budget Helper
+**Grocery Budget Helper**
 A small tool. But kind of useful. And honestly more realistic than it looks.
 
 **Overview of the Project
@@ -16,7 +13,7 @@ Not a boring calculator — more like someone tracking your spending while you s
 
 **Features**
 
-This little program has a good number of tricks:
+* This little program has a good number of tricks:
 
 >Add grocery items one by one
 
