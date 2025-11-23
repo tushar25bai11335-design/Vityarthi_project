@@ -1,4 +1,4 @@
-## Vityarthi_project
+# Vityarthi_project
 
 # **Grocery Budget Helper**
 
