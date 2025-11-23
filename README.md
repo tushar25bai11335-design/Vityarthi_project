@@ -1,6 +1,7 @@
 # Vityarthi_project
 
 **Grocery Budget Helper**
+
 A small tool. But kind of useful. And honestly more realistic than it looks.
 
 **Overview of the Project**
