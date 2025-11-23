@@ -15,27 +15,27 @@ Not a boring calculator — more like someone tracking your spending while you s
 
 * This little program has a good number of tricks:
 
->Add grocery items one by one
+* Add grocery items one by one
 
->Mark each item as Essential or Non-essential
+* Mark each item as Essential or Non-essential
 
->Edit items when mistakes happen (they always happen)
+*Edit items when mistakes happen (they always happen)
 
->Delete an item you regret buying
+* Delete an item you regret buying
 
->See totals for both categories
+* See totals for both categories
 
->Apply discount directly to the bill (just like shopkeeper offer)
+* Apply discount directly to the bill (just like shopkeeper offer)
 
->Final summary + soft suggestions to avoid overspending next month
+* Final summary + soft suggestions to avoid overspending next month
 
->It’s not too fancy. But it’s surprisingly powerful for daily use.
+* It’s not too fancy. But it’s surprisingly powerful for daily use.
 
-Technologies / Tools Used
+**Technologies / Tools Used**
 
->Python (plain, simple, no libraries imported)
+1-Python (plain, simple, no libraries import)
 
->Runs in terminal / command prompt
+2-Runs in terminal / command prompt
 Basically… if Python runs, the program runs.
 
 **Steps to Install & Run the Project**
@@ -63,34 +63,37 @@ python grocery.py
 There isn’t any complicated testing.
 Just play around with the options, like:
 
-~Add a few items
+~ Add a few items
 
-~Try editing an item
+~ Try editing an item
 
-~Delete one
+~ Delete one
 
-~Show category summary
+~ Show category summary
 
-~Apply discount
+~ Apply discount
 
-~Press exit and check final bill
+~ Press exit and check final bill
 
 Best test is entering things in the wrong way too (typos, numbers, etc.)
 The program reacts quite okay.
 
-Screenshots 
+**Screenshots **
 
-Screenshots tell the whole story better.
-Suggested screenshots:
+* **Main menu**
+<img width="611" height="347" alt="image" src="https://github.com/user-attachments/assets/75342366-67d0-43dd-b339-44c286890bc4" />
 
-Main menu
+* **Adding an item**
+  <img width="714" height="263" alt="image" src="https://github.com/user-attachments/assets/8c574a4f-535c-499c-9c3d-60adfe9e4e1b" />
 
-Adding an item
+* **Editing an item**
+<img width="894" height="489" alt="image" src="https://github.com/user-attachments/assets/77c6d99c-cbe0-4a8d-bfab-403dcbd0ea6e" />
 
-Editing an item
 
-Category-wise summary
+* **Category-wise summary**
+<img width="482" height="114" alt="image" src="https://github.com/user-attachments/assets/1e620e60-9e9b-4b62-a23e-39fc28448c4e" />
 
-Final summary
+* **Final summary**
+<img width="761" height="557" alt="image" src="https://github.com/user-attachments/assets/0a707360-df11-4925-b25a-00acc66d5660" />
 
-Place them in the /screenshots folder.
+
