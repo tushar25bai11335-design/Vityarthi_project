@@ -101,7 +101,7 @@ The program reacts quite okay.
 * **Deleting Items**
 <img width="763" height="362" alt="image" src="https://github.com/user-attachments/assets/1677dac5-348e-48b7-9c8a-2085670d3418" />
 
-* * **Category-wise summary**
+* **Category-wise summary**
 <img width="511" height="154" alt="image" src="https://github.com/user-attachments/assets/8004063b-2157-4764-a62c-39968c4ac875" />
 
  * **Applied Discount**
