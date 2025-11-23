@@ -83,19 +83,31 @@ The program reacts quite okay.
 ## **Screenshots**
 
 * **Main menu**
-* <img width="611" height="347" alt="image" src="https://github.com/user-attachments/assets/75342366-67d0-43dd-b339-44c286890bc4" />
+<img width="571" height="356" alt="image" src="https://github.com/user-attachments/assets/f3115798-0beb-46ce-aec8-36e845e37526" />
 
 * **Adding an item**
-* <img width="714" height="263" alt="image" src="https://github.com/user-attachments/assets/8c574a4f-535c-499c-9c3d-60adfe9e4e1b" />
+<img width="711" height="260" alt="image" src="https://github.com/user-attachments/assets/57cb66ab-b880-4bba-bb9d-ac2fe5efe6e2" />
+<img width="719" height="272" alt="image" src="https://github.com/user-attachments/assets/b85f025e-6f86-455f-b3a2-87724607ef39" />
+<img width="713" height="227" alt="image" src="https://github.com/user-attachments/assets/07c7d43c-5107-4adf-80e9-852b7cf46d5c" />
+<img width="720" height="220" alt="image" src="https://github.com/user-attachments/assets/0b9e1f40-5a34-4820-841b-151a19dd5313" />
+<img width="715" height="210" alt="image" src="https://github.com/user-attachments/assets/cdacfcc6-a49b-4957-9b6c-83c46ff315ad" />
+
+* **View Items and Total**
+<img width="760" height="419" alt="image" src="https://github.com/user-attachments/assets/d95d1035-c168-4349-81a8-91e958444157" />
 
 * **Editing an item**
-* <img width="894" height="489" alt="image" src="https://github.com/user-attachments/assets/77c6d99c-cbe0-4a8d-bfab-403dcbd0ea6e" />
+<img width="882" height="591" alt="image" src="https://github.com/user-attachments/assets/aee45faf-4ccb-4360-94b4-1fb82136caba" />
 
+* **Deleting Items**
+<img width="763" height="362" alt="image" src="https://github.com/user-attachments/assets/1677dac5-348e-48b7-9c8a-2085670d3418" />
 
-* **Category-wise summary**
-* <img width="482" height="114" alt="image" src="https://github.com/user-attachments/assets/1e620e60-9e9b-4b62-a23e-39fc28448c4e" />
+* * **Category-wise summary**
+<img width="511" height="154" alt="image" src="https://github.com/user-attachments/assets/8004063b-2157-4764-a62c-39968c4ac875" />
+
+ * **Applied Discount**
+<img width="512" height="150" alt="image" src="https://github.com/user-attachments/assets/74f94497-3c68-41ea-a2cb-74c20997d35d" />
 
 * **Final summary**
-* <img width="761" height="557" alt="image" src="https://github.com/user-attachments/assets/0a707360-df11-4925-b25a-00acc66d5660" />
+<img width="770" height="592" alt="image" src="https://github.com/user-attachments/assets/d1faaa72-d90e-48a2-bceb-24c05971934c" />
 
 
